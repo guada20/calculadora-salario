@@ -1,0 +1,15 @@
+.cuerpo{
+    background: #F3A2C5;
+}
+.titulo1{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+.text1{
+    color:black;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Shadows Into Light', cursive;
+}
